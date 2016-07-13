@@ -1,0 +1,7 @@
+1. I think that the program will crash and if it runs smoothly, it will probably output ABCabc123
+
+2. 3 bytes as indicated by the code that argc ! = 3
+
+3. NONE
+
+4. free(p); 
